@@ -1,6 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Unlock to feel the Nature",
+    "short_name": "GreenPulse Hotel",
+    "start_url":"./hotel.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
